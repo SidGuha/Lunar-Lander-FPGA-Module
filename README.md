@@ -1,4 +1,4 @@
-# FPGA Lunar Lander Minigame
+# FPGA Lunar Lander Module
 
 A SystemVerilog implementation of a Lunar Lander minigame targeting an FPGA dev board. The game runs a real-time physics loop entirely in **Binary-Coded Decimal (BCD)** arithmetic — no binary-to-decimal conversion anywhere in the datapath — and streams live telemetry to a bank of 7-segment displays.
 
